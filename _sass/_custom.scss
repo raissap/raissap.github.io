@@ -1,0 +1,77 @@
+$header-height: 56px;
+$header-top-border: 5px;
+$header-bottom-border: 1px;
+$body-padding: 60px;
+$footer-top-border: 10px;
+
+$purple-dark: #4B1996;
+$purple-light: #B487EB;
+$white: #FFFFFF;
+
+html, body {
+  height: 100%;
+}
+
+.site-header {
+  height: $header-height;
+}
+
+.site-footer {
+  border: 0;
+  border-top: $footer-top-border solid transparent;
+  -moz-border-image: -moz-linear-gradient(right, $purple-light 0%, $purple-dark 100%);
+  -webkit-border-image: -webkit-linear-gradient(right, $purple-light 0%, $purple-dark 100%);
+  border-image: linear-gradient(to left, $purple-light 0%, $purple-dark 100%);
+  border-image-slice: 1;
+  padding: 0;
+}
+
+.page-content {
+  height: calc(100% - (#{$header-height} + #{$header-top-border} + #{$header-bottom-border} + #{$body-padding} + #{$footer-top-border}));
+  overflow: auto;
+
+  > .wrapper,
+  .post {
+    height: 100%;
+  }
+}
+
+.post-header {
+  position: relative;
+
+  .post-title {
+    background: $purple-dark;
+    color: $white;
+    margin-top: 20px;
+    padding: 10px 20px;
+    position: absolute;
+    width: 75%;
+  }
+}
+
+.post-content {
+  th, td {
+    padding: 10px;
+  }
+
+  th {
+    color: $purple-dark;
+    text-align: left;
+  }
+
+  td {
+    vertical-align: top;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  .ingredients {
+    width: 30%;
+  }
+
+  .instructions {
+    border-left: 1px solid $grey-color-light;
+  }
+}
