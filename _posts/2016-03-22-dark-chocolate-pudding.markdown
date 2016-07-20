@@ -1,7 +1,7 @@
 ---
-layout: post
+permalink: /dark-chocolate-pudding/
+layout: recipe
 title: "Dark Chocolate Pudding"
-date: 2016-03-22 22:43:41 -0400
 categories: tasty 
 image: chocolate-pudding.jpg
 gallery: 
@@ -13,12 +13,12 @@ ingredients:
   - 6 oz bittersweet chocolate (66%-74%), chopped
   - 2 tbsp unsalted butter, softened
   - 1 tsp vanilla extract
-  - 2 1/2 cups whole milk
-  - 1/2 cup heavy cream
-  - 1/2 cup light or dark brown sugar
+  - 2 ½ cups whole milk
+  - ½ cup heavy cream
+  - ½ cup light or dark brown sugar
   - 2 tbsp unsweetened cocoa powder
   - 2 tbsp cornstarch
-  - 1/4 tsp salt
+  - ¼ tsp salt
 instructions:
   - In a small heatproof bowl, whisk together egg and yolks. Set aside.
   - Place chocolate, butter and vanilla extract in a food processor or blender but don’t turn on.

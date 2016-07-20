@@ -36,6 +36,23 @@ html, body {
   }
 }
 
+.post-link {
+  color: $purple-dark;
+
+  &:visited {
+    color: $purple-light;
+
+    &:hover {
+      color: #111;
+    }
+  }
+
+  &:hover {
+    color: #111;
+    text-decoration: none;
+  }
+}
+
 .post-header {
   position: relative;
 
