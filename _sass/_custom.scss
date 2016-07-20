@@ -67,6 +67,10 @@ html, body {
 }
 
 .post-content {
+  table {
+    border-collapse: collapse;
+  }
+
   th, td {
     padding: 10px;
   }
