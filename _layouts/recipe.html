@@ -5,9 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    {% for image in page.gallery %}
-      <img src="/img/{{ image.path }}" alt="{{ image.caption }}" class="post-image"/>
-    {% endfor %}
+    <img src="/img/{{ page.image }}" alt="{{ page.title }}" class="post-image"/>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -37,6 +35,10 @@ layout: default
         </tr>
       </tbody>
     </table>
+
+    {% if page.source %}
+      <small class="pull-right">{{ page.source }}</small>
+    {% endif %}
   </div>
 
 </article>

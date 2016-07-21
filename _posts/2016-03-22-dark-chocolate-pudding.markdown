@@ -4,9 +4,7 @@ layout: recipe
 title: "Dark Chocolate Pudding"
 categories: tasty 
 image: chocolate-pudding.jpg
-gallery: 
-  - path: chocolate-pudding.jpg
-    caption: "chocolate pudding"
+source: http://cooking.nytimes.com/recipes/1017198-dark-chocolate-pudding
 ingredients:
   - 1 large egg
   - 2 large egg yolks
