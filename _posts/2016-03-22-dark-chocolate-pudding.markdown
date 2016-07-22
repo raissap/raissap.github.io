@@ -1,7 +1,7 @@
 ---
 permalink: /dark-chocolate-pudding/
 layout: recipe
-title: "Dark Chocolate Pudding"
+title: Dark Chocolate Pudding
 categories: tasty 
 image: chocolate-pudding.jpg
 source: http://cooking.nytimes.com/recipes/1017198-dark-chocolate-pudding

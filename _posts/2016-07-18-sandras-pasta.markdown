@@ -1,12 +1,9 @@
 ---
 permalink: /sandras-pasta/
 layout: recipe
-title: "Sandra's Pasta"
+title: Sandra's Pasta
 categories: tasty 
 image: sandras-pasta.jpg
-gallery: 
-  - path: sandras-pasta.jpg
-    caption: "sandra's pasta"
 ingredients:
   - ½ lb pasta
   - 2 eggs
