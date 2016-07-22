@@ -14,7 +14,7 @@ ingredients:
   - 3 tbsp balsamic vinegar
   - 2 tbsp maple syrup
 instructions:
-  - Preheat oven to 450°F.
+  - Preheat the oven to 450°F.
   - Line a large baking sheet with foil and coat with cooking spray.
   - Slice the Brussels sprouts in half, if large.
   - Toss the Brussels sprouts in the oil, 2 tsp of salt, and pepper until well coated.
