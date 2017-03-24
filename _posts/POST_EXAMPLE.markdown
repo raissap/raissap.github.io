@@ -7,6 +7,8 @@ image: RECIPE-NAME.jpg
 source: RECIPE SOURCE
 ingredients:
   - ½
+  - ⅓
+  - ⅔
   - ¼
   - ¾
 instructions:
