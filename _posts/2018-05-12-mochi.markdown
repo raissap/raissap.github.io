@@ -1,0 +1,29 @@
+---
+permalink: /mochi/
+layout: recipe
+title: Mochi
+categories: tasty 
+image: mochi.jpg
+source: https://www.foodandwine.com/recipes/matcha-mochi
+ingredients:
+  - 1½ cups sweet rice flour
+  - 1 cup sugar
+  - ½ tsp baking powder
+  - 1½ tsp matcha powder
+  - 1 cup water
+  - ¾ cup coconut milk
+  - ¾ tsp vanilla extract
+  - cornstarch, for dusting
+instructions:
+  - Preheat the oven to 275°F.
+  - Grease an 8-inch square glass pan.
+  - In a medium bowl, whisk together the rice flour, sugar, baking powder, and matcha powder.
+  - In a separate bowl, whisk together the water, coconut milk, and vanillar extract.
+  - Pour the wet ingredients into the dry ingredients and whisk until smooth.
+  - Pour the batter into the pan, cover tightly with foil, and bake for 60-80 minutes, or until the top is set.
+  - Remove the foil and let it cool.
+  - Recover with foil and let it sit at room temperature overnight.
+  - Turn the mochi onto a cutting board and cut small cubes with a sharp knife.
+  - Coat all over with cornstarch.
+  - NOTE: This will only last about 3-4 days!
+---
